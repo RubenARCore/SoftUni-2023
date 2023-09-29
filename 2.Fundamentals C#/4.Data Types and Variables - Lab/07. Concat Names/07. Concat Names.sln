@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Concat Names", "07. Concat Names\07. Concat Names.csproj", "{A1F59288-8227-4127-9429-1A8DE1F727D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F59288-8227-4127-9429-1A8DE1F727D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F59288-8227-4127-9429-1A8DE1F727D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F59288-8227-4127-9429-1A8DE1F727D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F59288-8227-4127-9429-1A8DE1F727D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E11D7FB-97C5-4A0E-918A-888B1B3D3911}
+	EndGlobalSection
+EndGlobal
